@@ -1,0 +1,14 @@
+{
+  "train_path": "C:\\Users\\36503\\Desktop\\rumer2026\\train.csv",
+  "model_path": "C:\\Users\\36503\\Desktop\\rumer2026\\models\\tfidf_lr.joblib",
+  "num_train_samples": 2840,
+  "label_distribution": {
+    "0": 1600,
+    "1": 1240
+  },
+  "cv_accuracy_mean": 0.844718309859155,
+  "cv_accuracy_std": 0.01847836868084778,
+  "max_features": 30000,
+  "ngram_max": 2,
+  "c_value": 2.0
+}
